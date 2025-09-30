@@ -40,4 +40,19 @@ Testing in this repository is a manual quality control process to ensure the doc
 </testing_instructions>
 
 <pull_request_formatting>
++To ensure consistency and clarity, please follow these guidelines when submitting a pull request.
++
++### Title
++- The title should be concise and descriptive, summarizing the changes made.
++- Use a prefix to indicate the type of change, such as `feat:`, `fix:`, `docs:`, or `refactor:`.
++
++### Description
++- Provide a detailed description of the changes, including the motivation and context.
++- Use the following template:
++  - **Description**: A summary of the changes.
++  - **Related Issue**: Link to any related issues using `Closes #issue_number`.
++  - **Changes Made**: A bulleted list of the changes.
++
++### Linking to Issues
++- Use keywords in the description to automatically close related issues (e.g., `Closes #123`, `Fixes #456`).
 </pull_request_formatting>
